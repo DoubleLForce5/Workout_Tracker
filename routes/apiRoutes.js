@@ -1,3 +1,4 @@
+const mongojs = require("mongojs");
 const router = require('express').Router();
 const db = require("../models");
 
@@ -14,14 +15,21 @@ db.Workout.find({})
 });
 
 // Add Exercise | Update a workout 
-router.post("/workouts/", ({ body }, res) => {
-  db.Workout.create(body)
-  .then(exercise => {
-    res.json(exercise);
-  })
-  .catch(err => {
-    res.status(400).json(err);
-  });
+router.put("/workouts/:id", (req, res) => {
+  console.log(req.params.id)
+  db.Workout.updateOne(
+    {
+      _id: mongojs.ObjectId(req.params.id)
+    },
+    (error, data) => {
+      if(error) {
+        res.send(error);
+      } else {
+        res.send(data);
+      }
+    }
+  );
 });
+
 
 module.exports = router;
