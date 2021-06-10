@@ -7,15 +7,23 @@ const WorkoutSchema = new Schema({
    type: Date,
    default: Date.now
  }, 
- exercises: [{ type: String, 
+ exercises: [
+  { 
+  type: {
+        type: String,
+        trim: true,
+        required: 'Enter an exercise type',
+      }, 
   name: String, 
   duration: Number, 
   weight: Number, 
   reps: Number, 
-  sets: Number, 
-}]
+  sets: Number,
+  distance: Number 
+  }
+ ]
 });
 
 const Workout = mongoose.model("Workout", WorkoutSchema);
 
-module.exports = Workout 
+module.exports = Workout; 
