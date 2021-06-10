@@ -19,7 +19,7 @@ https://pure-anchorage-79483.herokuapp.com/
 On page load, the user is presented with a landing page displaying their most recent workout. From here the user can decide whether they would like to continue adding exercises to their last workout session or create a new workout session.
 <img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">
 
-Whichever decision the user makes upon clicking either button they are presented with the following screen. Here they can select the type of exercise they will be adding. 
+Whichever the user decides upon clicking either button they will be presented with the following screen. Here they can select the type of exercise they will be adding. 
 <img width="808" alt="Screen Shot 2021-06-10 at 5 11 03 PM" src="https://user-images.githubusercontent.com/73543476/121604838-e4b09f80-ca10-11eb-9cff-69553ac4c824.png">
 
 Depending on the type of exercise the user decides adds they will be presented with either the cardio exercise form or 
