@@ -14,10 +14,11 @@ https://pure-anchorage-79483.herokuapp.com/
 - Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
-![Homepage](<img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">)
+![Homepage](<img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">
 ![Login/signup]
 ![Dashboard]
 ![Comment Section]
+![Uploading homepage.png…]()
 
 ## Tech Used
 - Mysql
