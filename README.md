@@ -16,14 +16,20 @@ https://pure-anchorage-79483.herokuapp.com/
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
 
 ## Usage Instructions
-On page load, the user is presented with a landing page displaying their most recent workout. 
+On page load, the user is presented with a landing page displaying their most recent workout. From here the user can decide whether they would like to continue adding exercises to their last workout session or create a new workout session.
 <img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">
 
-From here the user can decide whether they would like to continue adding exercises to their last workout session or create a new workout session. 
+Whichever decision the user makes upon clicking either button they are presented with the following screen. Here they can select the type of exercise they will be adding. 
 <img width="808" alt="Screen Shot 2021-06-10 at 5 11 03 PM" src="https://user-images.githubusercontent.com/73543476/121604838-e4b09f80-ca10-11eb-9cff-69553ac4c824.png">
 
-![Dashboard]
-![Comment Section]
+Depending on the type of exercise the user decides adds they will be presented with either the cardio exercise form or 
+<img width="900" alt="Screen Shot 2021-06-10 at 5 11 51 PM" src="https://user-images.githubusercontent.com/73543476/121605353-e0d14d00-ca11-11eb-95fe-01317e4ccbca.png">
+
+the resistance exercise form. Once the user has finished filling out the form they can choose to either complete this workout or add additional exercises. 
+<img width="980" alt="Screen Shot 2021-06-10 at 5 11 36 PM" src="https://user-images.githubusercontent.com/73543476/121605368-e5960100-ca11-11eb-85ff-7189e04320ca.png">
+
+Upon completion, the user will be taken back to the main page where they will be presented with information from their last workout. If the user is interested they can access an in-depth analysis of their last several workouts by clicking the dashboard button in the upper left corner of the page. 
+<img width="903" alt="Screen Shot 2021-06-10 at 5 13 09 PM" src="https://user-images.githubusercontent.com/73543476/121606468-d44df400-ca13-11eb-8459-b62d741945a3.png">
 
 ## Tech Used
 - Mysql
