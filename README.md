@@ -1,16 +1,14 @@
-# Workout_Tracker
+# Workout Tracker
 
 ## Description
+This app was designed to provide the user the ability to view, create, and track daily workouts. It will allow the user to log multiple exercises in a workout on a given day and track the name, type, weight, sets, reps, and duration of an exercise. If the exercise is a cardio exercise, the user will be able to track their distance traveled.
  
-
-
 ## Deployed Site
 https://pure-anchorage-79483.herokuapp.com/
 
 ## Installation
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
-- Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
 - Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
@@ -32,13 +30,12 @@ Upon completion, the user will be taken back to the main page where they will be
 <img width="903" alt="Screen Shot 2021-06-10 at 5 13 09 PM" src="https://user-images.githubusercontent.com/73543476/121606468-d44df400-ca13-11eb-8459-b62d741945a3.png">
 
 ## Tech Used
-- Mysql
+- Mongoose 
+- MongoDB
+- Morgan
 - Node.js 
-- Dotenv
 - Nodemon
-- Sequelize
 - Express
-- Handlebars 
 - Javascript 
 
 ## MIT License
