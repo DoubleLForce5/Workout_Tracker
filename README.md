@@ -7,18 +7,23 @@
 ## Deployed Site
 https://pure-anchorage-79483.herokuapp.com/
 
-## Installation / Usage Instructions
+## Installation
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
 - Be sure to add a .env file with your credentials. An example .env has been provided for reference. 
 - Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
 - Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
-![Homepage](<img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">
-![Login/signup]
+
+## Usage Instructions
+On page load, the user is presented with a landing page displaying their most recent workout. 
+<img width="957" alt="Screen Shot 2021-06-10 at 5 10 43 PM" src="https://user-images.githubusercontent.com/73543476/121604123-95b63a80-ca0f-11eb-8ef3-b65b55498c52.png">
+
+From here the user can decide whether they would like to continue adding exercises to their last workout session or create a new workout session. 
+<img width="808" alt="Screen Shot 2021-06-10 at 5 11 03 PM" src="https://user-images.githubusercontent.com/73543476/121604838-e4b09f80-ca10-11eb-9cff-69553ac4c824.png">
+
 ![Dashboard]
 ![Comment Section]
-![Uploading homepage.png…]()
 
 ## Tech Used
 - Mysql
