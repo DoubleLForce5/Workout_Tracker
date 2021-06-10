@@ -22,7 +22,7 @@ On page load, the user is presented with a landing page displaying their most re
 Whichever the user decides upon clicking either button they will be presented with the following screen. Here they can select the type of exercise they will be adding. 
 <img width="808" alt="Screen Shot 2021-06-10 at 5 11 03 PM" src="https://user-images.githubusercontent.com/73543476/121604838-e4b09f80-ca10-11eb-9cff-69553ac4c824.png">
 
-Depending on the type of exercise the user decides adds they will be presented with either the cardio exercise form or 
+Depending on the type of exercise added the user will be presented with either the cardio exercise form or 
 <img width="900" alt="Screen Shot 2021-06-10 at 5 11 51 PM" src="https://user-images.githubusercontent.com/73543476/121605353-e0d14d00-ca11-11eb-95fe-01317e4ccbca.png">
 
 the resistance exercise form. Once the user has finished filling out the form they can choose to either complete this workout or add additional exercises. 
