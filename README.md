@@ -36,7 +36,7 @@ Upon completion, the user will be taken back to the main page where they will be
 - Node.js 
 - Nodemon
 - Express
-- Javascript 
+- JavaScript 
 
 ## MIT License
 Copyright (c) 2021 Olivia Lopez
