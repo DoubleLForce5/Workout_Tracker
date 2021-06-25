@@ -9,9 +9,9 @@ https://pure-anchorage-79483.herokuapp.com/
 ## Installation
 - To utilize this application you will need Node.js.
 - Clone this repository and open it within VS Code or any text editor of your choosing.
-- Right click on the sever.js file within your explorer dock and select "open in integrated terminal"
+- Right-click on the server.js file within your explorer dock and select "open in integrated terminal"
 - In your terminal type 'NPM install' and hit enter. 
-- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the sever. 
+- Upon completion of the installation mentioned above, type 'npm run watch' into the terminal and hit enter to start the server.  
 
 ## Usage instructions
 On page load, the user is presented with a landing page displaying their most recent workout. From here the user can decide whether they would like to continue adding exercises to their last workout session or create a new workout session.
