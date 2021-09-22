@@ -30,6 +30,8 @@ Upon completion, the user will be taken back to the main page where they will be
 <img width="903" alt="Screen Shot 2021-06-10 at 5 13 09 PM" src="https://user-images.githubusercontent.com/73543476/121606468-d44df400-ca13-11eb-8459-b62d741945a3.png">
 
 ## Tech
+- CSS
+- HTML
 - Mongoose 
 - MongoDB
 - Morgan
